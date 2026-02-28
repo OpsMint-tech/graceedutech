@@ -1,12 +1,36 @@
 import { inquiries, type InsertInquiry, type Inquiry } from "@shared/schema";
-import { db } from "./db";
 
 export interface IStorage {
   createInquiry(inquiry: InsertInquiry): Promise<Inquiry>;
 }
 
+export class MemStorage implements IStorage {
+  private inquiries: Map<number, Inquiry>;
+  private currentId: number;
+
+  constructor() {
+    this.inquiries = new Map();
+    this.currentId = 1;
+  }
+
+  async createInquiry(insertInquiry: InsertInquiry): Promise<Inquiry> {
+    const id = this.currentId++;
+    const inquiry: Inquiry = {
+      ...insertInquiry,
+      id,
+      createdAt: new Date(),
+    };
+    this.inquiries.set(id, inquiry);
+    return inquiry;
+  }
+}
+
 export class DatabaseStorage implements IStorage {
   async createInquiry(insertInquiry: InsertInquiry): Promise<Inquiry> {
+    const { db } = await import("./db");
+    if (!db) {
+      throw new Error("Database not initialized. Ensure DATABASE_URL is set.");
+    }
     const [inquiry] = await db
       .insert(inquiries)
       .values(insertInquiry)
@@ -15,4 +39,6 @@ export class DatabaseStorage implements IStorage {
   }
 }
 
-export const storage = new DatabaseStorage();
+export const storage = process.env.DATABASE_URL
+  ? new DatabaseStorage()
+  : new MemStorage();

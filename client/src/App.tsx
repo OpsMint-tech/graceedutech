@@ -6,7 +6,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { Layout } from "@/components/Layout";
 import { FloatButtons } from "@/components/FloatButtons";
 import NotFound from "@/pages/not-found";
-import { ScrollToTop } from "@/components/ScrollToTop"; // Component created inline below
+
 
 // Import Pages
 import Home from "@/pages/Home";

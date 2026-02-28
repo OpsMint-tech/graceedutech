@@ -5,8 +5,8 @@ import { motion } from "framer-motion";
 export default function About() {
   return (
     <>
-      <PageHeader 
-        title="About Us" 
+      <PageHeader
+        title="About Us"
         subtitle="Trusted since 2009. Building financial clarity for businesses."
         image="https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&q=80"
       />
@@ -16,15 +16,16 @@ export default function About() {
         <div className="container-custom">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-6">
-              <h2 className="text-3xl font-bold text-slate-900">Our History</h2>
+              <h2 className="text-3xl font-bold text-slate-900">Our Story</h2>
               <div className="w-20 h-1 bg-secondary rounded-full" />
               <p className="text-slate-600 text-lg leading-relaxed">
-                Established in 2009, Grace Associates has grown from a small consultancy to a premier accounting and compliance firm in the region. With over 30 years of collective experience, our founders envisioned a firm that not only manages books but also educates business owners and aspiring accountants.
+                Established in 2009, Grace Edutech (A Unit of Grace Associates) has grown from a specialized consultancy to a premier educational and compliance firm. With over 30 years of collective experience, our mission is to empower students and professionals through quality coaching and reliable financial services.
               </p>
               <p className="text-slate-600 text-lg leading-relaxed">
-                We bridge the gap between complex government regulations and practical business needs, ensuring our clients can focus on growth while we handle the compliance.
+                We specialize in bridging the gap between academic theory and professional practice, offering top-tier coaching for NET, SET, and GATE exams, while simultaneously providing expert accounting and GST compliance solutions for businesses.
               </p>
-              
+
+
               <div className="grid grid-cols-2 gap-6 pt-6">
                 <div className="flex items-start gap-4">
                   <div className="bg-primary/10 p-3 rounded-lg text-primary"><Clock className="w-6 h-6" /></div>
@@ -42,11 +43,11 @@ export default function About() {
                 </div>
               </div>
             </div>
-            
+
             <div className="relative">
-              <img 
-                src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80" 
-                alt="Our Team" 
+              <img
+                src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80"
+                alt="Our Team"
                 className="rounded-2xl shadow-2xl"
               />
               <div className="absolute -bottom-10 -left-10 bg-white p-8 rounded-xl shadow-xl hidden md:block max-w-xs">
@@ -61,7 +62,7 @@ export default function About() {
       <section className="py-24 bg-slate-50">
         <div className="container-custom">
           <div className="grid md:grid-cols-2 gap-8">
-            <motion.div 
+            <motion.div
               whileHover={{ y: -5 }}
               className="bg-white p-10 rounded-2xl shadow-lg border-t-4 border-primary"
             >
@@ -70,11 +71,11 @@ export default function About() {
               </div>
               <h3 className="text-2xl font-bold mb-4 text-slate-900">Our Mission</h3>
               <p className="text-slate-600 leading-relaxed">
-                To provide precise, timely, and cost-effective accounting and compliance services that empower businesses to thrive. We aim to create a knowledgeable workforce through our practical training programs.
+                To provide top-tier coaching for competitive exams and practical accounting training that builds careers, while delivering precise financial compliance services that empower businesses to grow.
               </p>
             </motion.div>
 
-            <motion.div 
+            <motion.div
               whileHover={{ y: -5 }}
               className="bg-white p-10 rounded-2xl shadow-lg border-t-4 border-secondary"
             >
@@ -83,7 +84,7 @@ export default function About() {
               </div>
               <h3 className="text-2xl font-bold mb-4 text-slate-900">Our Vision</h3>
               <p className="text-slate-600 leading-relaxed">
-                To be the most trusted name in financial compliance and accounting education, known for integrity, accuracy, and unwavering client support across the nation.
+                To be a national leader in professional coaching and financial consultancy, recognized for our commitment to student success and business excellence.
               </p>
             </motion.div>
           </div>
