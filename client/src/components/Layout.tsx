@@ -205,7 +205,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           </div>
         </div>
         <div className="container-custom mt-12 pt-8 border-t border-slate-800 text-center text-sm text-slate-500">
-          © {new Date().getFullYear()} Grace Edutech. All rights reserved. Powered by <a href="https://opsminttech.com" target="_blank" rel="noopener noreferrer" className="text-secondary hover:underline">opsminttech.com</a>
+          © {new Date().getFullYear()} Grace Edutech. All rights reserved. Powered by <a href="https://opsmintech.com" target="_blank" rel="noopener noreferrer" className="text-secondary hover:underline">opsmintech.com</a>
         </div>
       </footer>
     </div>
