@@ -1,0 +1,35 @@
+# Grace Edutech
+
+Grace Edutech is a premier institution providing professional coaching and comprehensive financial compliance services since 2009. We specialize in academic excellence and business growth through expert mentorship and practical training.
+
+## Core Services
+
+### Coaching & Education
+- **NET / SET Coaching**: Expert guidance for University and State level lecturership exams.
+- **GATE Coaching**: Comprehensive preparation for Graduate Aptitude Test in Engineering.
+- **Spoken English**: Communication skills and confidence building.
+- **Tally & Accounting**: Practical training in Tally Prime, GST, and Payroll.
+- **E-Commerce Training**: Marketplace management for Amazon and Flipkart.
+
+### Accounting & Compliance
+- **Financial Accounting**: Bookkeeping, financial reporting, and record maintenance.
+- **GST & Taxation**: GST filing, Income Tax returns, and tax planning.
+- **Business Registrations**: Company incorporation (Pvt Ltd, LLP, OPC), Trademark, and Shop Acts.
+- **Professional Services**: Audit support, payroll management, and financial consulting.
+
+## Key Pages
+- Home: https://graceedutech.com/
+- About Us: https://graceedutech.com/about
+- Services: https://graceedutech.com/services
+- Courses: https://graceedutech.com/courses
+- Practical Services: https://graceedutech.com/practical-services
+- Why Choose Us: https://graceedutech.com/why-us
+- Careers: https://graceedutech.com/careers
+- Contact: https://graceedutech.com/contact
+
+## Contact Information
+- Website: https://graceedutech.com
+- Location: Based in Coimbatore, Tamil Nadu (refer to contact page for full details)
+
+## Our Mission
+To empower students through quality education and help businesses scale with robust financial compliance and expert mentorship.

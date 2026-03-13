@@ -7,8 +7,59 @@ import { ReelsSection } from "@/components/ReelsSection";
 
 
 export default function Home() {
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the duration of the NET/SET coaching program?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Our intensive coaching programs typically run for 6 months, covering both Paper 1 and Paper 2 with regular mock tests."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you provide practical training for accounting software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, we specialize in practical Tally Prime training, including real-world scenarios for GST, TDS, and payroll management."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the duration of the E-Commerce training?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We offer three flexible durations: 10 Days, 30 Days, and 45 Days, depending on the level of depth and marketplace exposure you need."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you help with new company registration?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. We handle end-to-end registration for Pvt Ltd, LLP, and OPC, including GST registration and shop acts."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is there placement assistance for training courses?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, we provide placement support and career guidance for students who successfully complete our Master Diploma in Accounting."
+        }
+      }
+    ]
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       {/* Hero Section */}
       <section className="relative min-h-[90vh] flex items-center overflow-hidden bg-slate-900">
         {/* Abstract Background Image */}

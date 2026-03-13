@@ -1,3 +1,6 @@
 User-agent: *
 Allow: /
 Sitemap: https://graceedutech.com/sitemap.xml
+
+# LLM Crawler Access
+# Reference: https://graceedutech.com/llm.txt
