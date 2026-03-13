@@ -35,6 +35,26 @@ const courseGroups = [
     ],
   },
   {
+    label: "IT & Software Development",
+    courses: [
+      "DevOps",
+      "Python & SQL",
+      "Full Stack Development",
+      "Java",
+      "Medical Coding",
+      "Power BI",
+      "AI & Machine Learning",
+    ],
+  },
+  {
+    label: "Design & Mobile Development",
+    courses: [
+      "Adobe XD",
+      "Adobe Illustrator",
+      "iOS & Android App Development",
+    ],
+  },
+  {
     label: "Competitive Exams",
     courses: ["NET / SET Coaching", "GATE Coaching"],
   },

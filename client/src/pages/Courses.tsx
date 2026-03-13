@@ -125,10 +125,82 @@ export default function Courses() {
             features: ["Placement Assistance", "Live Marketplace Exp", "Internship Opportunities"],
             level: "Expert",
             category: "E-Commerce Training"
+        },
+        // IT & Software Development Courses
+        {
+            title: "DevOps",
+            duration: "3 Months",
+            features: ["CI/CD Pipelines", "Docker & Kubernetes", "Cloud Deployment (AWS/Azure)", "Monitoring & Logging"],
+            level: "Advanced",
+            category: "IT & Software Development"
+        },
+        {
+            title: "Python & SQL",
+            duration: "2 Months",
+            features: ["Python Programming Fundamentals", "Data Manipulation & Analysis", "SQL Queries & Database Design", "Real-World Projects"],
+            level: "Beginner",
+            category: "IT & Software Development"
+        },
+        {
+            title: "Full Stack Development",
+            duration: "6 Months",
+            features: ["Frontend (HTML, CSS, React)", "Backend (Node.js, Express)", "Database (MongoDB, SQL)", "Deployment & Portfolio"],
+            level: "Intermediate",
+            category: "IT & Software Development"
+        },
+        {
+            title: "Java",
+            duration: "3 Months",
+            features: ["Core Java & OOP Concepts", "Collections & Multithreading", "Spring Boot Framework", "Project Development"],
+            level: "Intermediate",
+            category: "IT & Software Development"
+        },
+        {
+            title: "Medical Coding",
+            duration: "3 Months",
+            features: ["ICD-10 & CPT Coding", "Medical Terminology", "Healthcare Compliance (HIPAA)", "Revenue Cycle Management"],
+            level: "Professional",
+            category: "IT & Software Development"
+        },
+        {
+            title: "Power BI",
+            duration: "45 Days",
+            features: ["Data Visualization & Dashboards", "DAX Formulas & Measures", "Data Modeling & ETL", "Real-Time Reporting"],
+            level: "Intermediate",
+            category: "IT & Software Development"
+        },
+        {
+            title: "AI & Machine Learning",
+            duration: "4 Months",
+            features: ["Machine Learning Algorithms", "Deep Learning & Neural Networks", "Natural Language Processing", "Hands-On Projects with Python"],
+            level: "Advanced",
+            category: "IT & Software Development"
+        },
+        // Design & Mobile Development Courses
+        {
+            title: "Adobe XD",
+            duration: "30 Days",
+            features: ["UI/UX Design Principles", "Wireframing & Prototyping", "Interactive Design", "Design Systems & Components"],
+            level: "Beginner",
+            category: "Design & Mobile Development"
+        },
+        {
+            title: "Adobe Illustrator",
+            duration: "30 Days",
+            features: ["Vector Graphics & Illustration", "Logo & Branding Design", "Typography & Layout", "Print & Digital Media"],
+            level: "Beginner",
+            category: "Design & Mobile Development"
+        },
+        {
+            title: "iOS & Android App Development",
+            duration: "6 Months",
+            features: ["React Native / Flutter", "UI/UX for Mobile Apps", "API Integration & State Management", "App Store Deployment"],
+            level: "Advanced",
+            category: "Design & Mobile Development"
         }
     ];
 
-    const categories = ["Accounting & Finance", "E-Commerce Training", "Competitive Exams", "Professional Skills"];
+    const categories = ["Accounting & Finance", "E-Commerce Training", "IT & Software Development", "Design & Mobile Development", "Competitive Exams", "Professional Skills"];
 
     return (
         <>
