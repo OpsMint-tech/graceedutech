@@ -1,7 +1,7 @@
 {
     "name": "Grace Edutech",
     "short_name": "Grace",
-    "description": "Coaching for NET, SET, GATE & Compliance Services",
+    "description": "Coaching for NET, SET, GATE & Compliance Services, IT course",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
