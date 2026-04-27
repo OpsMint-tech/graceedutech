@@ -31,6 +31,9 @@
   --ring: 224 64% 33%;
 
   --radius: 0.5rem;
+
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Libre Baskerville', serif;
 }
 
 @layer base {
@@ -39,10 +42,11 @@
   }
   body {
     @apply bg-background text-foreground antialiased;
-    font-family: 'Inter', sans-serif;
+    font-family: var(--font-sans);
   }
   h1, h2, h3, h4, h5, h6 {
     @apply tracking-tight font-bold text-slate-900;
+    font-family: var(--font-serif);
   }
 }
 

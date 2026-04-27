@@ -75,7 +75,8 @@ export function ContactForm() {
   const { toast } = useToast();
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const { register, handleSubmit, reset, setValue, watch, formState: { errors } } = useForm<FormData>({
+  const { register, handleSubmit, reset, setValue, watch, setError, clearErrors, formState: { errors } } = useForm<FormData>({
+    mode: "onChange",
     defaultValues: {
       name: "",
       phone: "",
@@ -143,7 +144,28 @@ export function ContactForm() {
           <Input
             placeholder="Your Name"
             className="bg-slate-50/80 border-slate-200 h-12 rounded-xl text-slate-700 placeholder:text-slate-400 focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all"
-            {...register("name", { required: "Name is required" })}
+            {...register("name", { 
+              required: "Name is required",
+              pattern: {
+                value: /^[A-Za-z\s]+$/,
+                message: "Name should only contain alphabets"
+              }
+            })}
+            onInput={(e) => {
+              const target = e.target as HTMLInputElement;
+              const originalValue = target.value;
+              const cleanedValue = originalValue.replace(/[^A-Za-z\s]/g, '');
+              
+              if (originalValue !== cleanedValue) {
+                setError("name", { 
+                  type: "manual", 
+                  message: "Numbers and special characters are not allowed" 
+                });
+              } else if (cleanedValue.length > 0) {
+                clearErrors("name");
+              }
+              target.value = cleanedValue;
+            }}
           />
           {errors.name && <p className="text-sm text-red-500">{errors.name.message}</p>}
         </div>
@@ -152,9 +174,37 @@ export function ContactForm() {
         <div className="space-y-2">
           <label className="text-sm font-semibold text-slate-800">Phone Number/WhatsApp</label>
           <Input
-            placeholder="+91 98XXX XXXXX"
+            type="tel"
+            maxLength={10}
+            placeholder="10-digit mobile number"
             className="bg-slate-50/80 border-slate-200 h-12 rounded-xl text-slate-700 placeholder:text-slate-400 focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all"
-            {...register("phone", { required: "Phone number is required" })}
+            {...register("phone", { 
+              required: "Phone number is required",
+              pattern: {
+                value: /^\d{10}$/,
+                message: "Please enter a valid 10-digit mobile number"
+              }
+            })}
+            onInput={(e) => {
+              const target = e.target as HTMLInputElement;
+              const originalValue = target.value;
+              const cleanedValue = originalValue.replace(/\D/g, '').slice(0, 10);
+              
+              if (originalValue !== cleanedValue) {
+                setError("phone", { 
+                  type: "manual", 
+                  message: "Only numbers are allowed" 
+                });
+              } else if (cleanedValue.length === 10) {
+                clearErrors("phone");
+              } else if (cleanedValue.length > 0) {
+                setError("phone", { 
+                  type: "manual", 
+                  message: "Please enter a valid 10-digit mobile number" 
+                });
+              }
+              target.value = cleanedValue;
+            }}
           />
           {errors.phone && <p className="text-sm text-red-500">{errors.phone.message}</p>}
         </div>

@@ -30,7 +30,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg mb-1">Office Location</h4>
-                    <p className="text-slate-600">D.No. 1288/2, Trichy Road, Race Course, Coimbatore – 641018, Tamil Nadu, India</p>
+                    <p className="text-slate-600">D, 1288/2, Trichy Rd, Nadar Colony, Race Course, Gopalapuram, Coimbatore, Tamil Nadu 641018</p>
                   </div>
                 </div>
 
