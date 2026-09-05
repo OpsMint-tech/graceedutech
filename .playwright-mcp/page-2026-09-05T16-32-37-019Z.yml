@@ -1,0 +1,155 @@
+- generic [ref=f16e2]:
+  - generic [ref=f16e3]:
+    - generic [ref=f16e5]:
+      - generic [ref=f16e6]:
+        - generic [ref=f16e7]: +91 90479 33484
+        - generic [ref=f16e10]: graceedutech26@gmail.com
+        - generic [ref=f16e14]: 30+ Years of Combined Experience
+      - generic [ref=f16e15]:
+        - link [ref=f16e16] [cursor=pointer]:
+          - /url: "#"
+        - link [ref=f16e19] [cursor=pointer]:
+          - /url: "#"
+        - link [ref=f16e24] [cursor=pointer]:
+          - /url: "#"
+    - banner [ref=f16e28]:
+      - generic [ref=f16e30]:
+        - link "Grace Edutech Logo Grace Edutech A Unit of Grace Associates" [ref=f16e31] [cursor=pointer]:
+          - /url: /
+          - img "Grace Edutech Logo" [ref=f16e32]
+          - generic [ref=f16e33]:
+            - generic [ref=f16e34]: Grace Edutech
+            - generic [ref=f16e35]: A Unit of Grace Associates
+        - navigation [ref=f16e36]:
+          - link "Home" [ref=f16e37] [cursor=pointer]:
+            - /url: /
+          - link "About" [ref=f16e38] [cursor=pointer]:
+            - /url: /about
+          - link "Services" [ref=f16e39] [cursor=pointer]:
+            - /url: /services
+          - link "Courses" [ref=f16e40] [cursor=pointer]:
+            - /url: /courses
+          - link "Practical Services" [ref=f16e41] [cursor=pointer]:
+            - /url: /practical-services
+          - link "Why Us" [ref=f16e42] [cursor=pointer]:
+            - /url: /why-us
+          - link "Careers" [ref=f16e43] [cursor=pointer]:
+            - /url: /careers
+          - link "Contact" [ref=f16e44] [cursor=pointer]:
+            - /url: /contact
+    - main [ref=f16e45]:
+      - generic [ref=f16e46]:
+        - img "Background" [ref=f16e49]
+        - generic [ref=f16e50]:
+          - heading "Contact Us" [level=1] [ref=f16e51]
+          - heading "We are here to help. Reach out for any queries." [level=2] [ref=f16e52]
+      - generic [ref=f16e55]:
+        - generic [ref=f16e56]:
+          - generic [ref=f16e57]:
+            - heading "Get In Touch" [level=2] [ref=f16e58]
+            - paragraph [ref=f16e59]: Have a question about our services or training programs? Fill out the form, and our team will get back to you within 24 hours.
+          - generic [ref=f16e60]:
+            - generic [ref=f16e66]:
+              - heading "Office Location" [level=4] [ref=f16e67]
+              - paragraph [ref=f16e68]: Door No-6, Padma Layout, Trichy Road, Sungam, Ramanathapuram, Coimbatore, Tamil Nadu - 641 045
+            - generic [ref=f16e73]:
+              - heading "Phone" [level=4] [ref=f16e74]
+              - paragraph [ref=f16e75]: +91 90479 33484
+              - paragraph [ref=f16e76]: Mon-Sat 9am-7pm
+            - generic [ref=f16e82]:
+              - heading "Email" [level=4] [ref=f16e83]
+              - paragraph [ref=f16e84]: graceedutech26@gmail.com
+          - iframe [ref=f16e86]:
+            - generic [ref=f17e3]:
+              - generic:
+                - button "Keyboard shortcuts"
+              - region "Map" [ref=f17e5]
+              - generic [ref=f17e6]:
+                - iframe [aria-hidden] [ref=f17e28]
+                - button "Map camera controls" [ref=f17e30] [cursor=pointer]
+                - button "Show satellite imagery" [ref=f17e33] [cursor=pointer]:
+                  - generic [ref=f17e37]:
+                    - region [ref=f17e38]
+                    - iframe [aria-hidden] [ref=f17e44]
+                - img "Google" [ref=f17e46]
+                - generic [ref=f17e47]:
+                  - button "Keyboard shortcuts" [ref=f17e53] [cursor=pointer]
+                  - generic [ref=f17e54]: Map data ©2026
+                  - link "Terms (opens in new tab)" [ref=f17e63] [cursor=pointer]:
+                    - /url: https://www.google.com/intl/en_IN/help/terms_maps.html
+                    - text: Terms
+                  - link "Report a map error (opens in new tab)" [ref=f17e68] [cursor=pointer]:
+                    - /url: https://www.google.com/maps/@10.9964682,76.9849806,16z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3
+                    - text: Report a map error
+        - generic [ref=f16e88]:
+          - heading "Course Inquiry" [level=3] [ref=f16e94]
+          - generic [ref=f16e95]:
+            - generic [ref=f16e96]:
+              - text: Full Name
+              - textbox "Your Name" [ref=f16e97]: John Doe
+            - generic [ref=f16e98]:
+              - text: Phone Number/WhatsApp
+              - textbox "10-digit mobile number" [ref=f16e99]: "9876543210"
+            - generic [ref=f16e100]:
+              - text: Select Interested Course
+              - combobox [active] [ref=f16e101] [cursor=pointer]:
+                - generic: Tally Prime (Advanced)
+              - combobox [aria-hidden] [ref=f16e104]
+            - generic [ref=f16e105]:
+              - generic [ref=f16e106]: Additional Questions (Optional)
+              - textbox "Tell us about your background or requirements..." [ref=f16e107]
+            - button "Get Free Consultation" [ref=f16e108] [cursor=pointer]
+    - contentinfo [ref=f16e109]:
+      - generic [ref=f16e110]:
+        - generic [ref=f16e111]:
+          - generic [ref=f16e112]:
+            - img "Grace Edutech Logo" [ref=f16e113]
+            - generic [ref=f16e114]:
+              - generic [ref=f16e115]: Grace Edutech
+              - generic [ref=f16e116]: A Unit of Grace Associates
+          - paragraph [ref=f16e117]: Your trusted partner in accounting, taxation, and compliance services with 30+ years of combined experience. Since 2009.
+        - generic [ref=f16e118]:
+          - heading "Quick Links" [level=3] [ref=f16e119]
+          - list [ref=f16e120]:
+            - listitem [ref=f16e121]:
+              - link "About Us" [ref=f16e122] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f16e123]:
+              - link "Services" [ref=f16e124] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f16e125]:
+              - link "Training Courses" [ref=f16e126] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f16e127]:
+              - link "Careers" [ref=f16e128] [cursor=pointer]:
+                - /url: /careers
+        - generic [ref=f16e129]:
+          - heading "Our Services" [level=3] [ref=f16e130]
+          - list [ref=f16e131]:
+            - listitem [ref=f16e132]: GST & Income Tax Filing
+            - listitem [ref=f16e133]: Company Registration (LLP / Pvt. Ltd.)
+            - listitem [ref=f16e134]: NET / SET / GATE Coaching
+            - listitem [ref=f16e135]: Spoken English Training
+            - listitem [ref=f16e136]: Accounting & Tally Training
+        - generic [ref=f16e137]:
+          - heading "Contact Us" [level=3] [ref=f16e138]
+          - list [ref=f16e139]:
+            - listitem [ref=f16e140]:
+              - generic [ref=f16e144]: graceedutech26@gmail.com
+            - listitem [ref=f16e145]:
+              - generic [ref=f16e148]: +91 90479 33484
+            - listitem [ref=f16e149]: www.graceedutech.com
+      - generic [ref=f16e150]:
+        - text: © 2026 Grace Edutech. All rights reserved. Powered by
+        - link "opsmintech.com" [ref=f16e151] [cursor=pointer]:
+          - /url: https://opsmintech.com
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=f16e152]:
+    - link [ref=f16e250] [cursor=pointer]:
+      - /url: tel:+919047933484
+    - link [ref=f16e254] [cursor=pointer]:
+      - /url: https://wa.me/919047933484
+      - generic:
+        - generic: WhatsApp
+        - generic: Chat with us

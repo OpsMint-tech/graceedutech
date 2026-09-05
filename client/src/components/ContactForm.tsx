@@ -128,7 +128,7 @@ export function ContactForm() {
   }
 
   return (
-    <div className="bg-white p-8 md:p-10 rounded-2xl shadow-xl border border-slate-100">
+    <div className="bg-white p-8 md:p-10 rounded-2xl shadow-xl border border-slate-100 h-full flex flex-col justify-between">
       {/* Header */}
       <div className="flex items-center gap-3 mb-8">
         <div className="w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center">

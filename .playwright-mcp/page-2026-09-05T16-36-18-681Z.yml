@@ -1,0 +1,250 @@
+- generic [ref=f21e2]:
+  - generic [ref=f21e3]:
+    - generic [ref=f21e5]:
+      - generic [ref=f21e6]:
+        - link "+91 90479 33484" [ref=f21e7] [cursor=pointer]:
+          - /url: tel:+919047933484
+        - link "graceedutech26@gmail.com" [ref=f21e10] [cursor=pointer]:
+          - /url: mailto:graceedutech26@gmail.com
+        - generic [ref=f21e14]: 30+ Years of Combined Experience
+      - generic [ref=f21e15]:
+        - link "Grace Edutech Facebook" [ref=f21e16] [cursor=pointer]:
+          - /url: https://facebook.com
+        - link "Grace Edutech LinkedIn" [ref=f21e19] [cursor=pointer]:
+          - /url: https://linkedin.com
+        - link "Grace Edutech Instagram" [ref=f21e24] [cursor=pointer]:
+          - /url: https://instagram.com
+    - banner [ref=f21e28]:
+      - generic [ref=f21e30]:
+        - link "Grace Edutech Logo Grace Edutech A Unit of Grace Associates" [ref=f21e31] [cursor=pointer]:
+          - /url: /
+          - img "Grace Edutech Logo" [ref=f21e32]
+          - generic [ref=f21e33]:
+            - generic [ref=f21e34]: Grace Edutech
+            - generic [ref=f21e35]: A Unit of Grace Associates
+        - navigation [ref=f21e36]:
+          - link "Home" [ref=f21e37] [cursor=pointer]:
+            - /url: /
+          - link "About" [ref=f21e38] [cursor=pointer]:
+            - /url: /about
+          - link "Services" [ref=f21e39] [cursor=pointer]:
+            - /url: /services
+          - link "Courses" [ref=f21e40] [cursor=pointer]:
+            - /url: /courses
+          - link "Practical Services" [ref=f21e41] [cursor=pointer]:
+            - /url: /practical-services
+          - link "Why Us" [ref=f21e42] [cursor=pointer]:
+            - /url: /why-us
+          - link "Careers" [ref=f21e43] [cursor=pointer]:
+            - /url: /careers
+          - link "Contact" [ref=f21e44] [cursor=pointer]:
+            - /url: /contact
+    - main [ref=f21e45]:
+      - generic [ref=f21e110]:
+        - img "Office background" [ref=f21e112]
+        - generic [ref=f21e114]:
+          - generic [ref=f21e115]:
+            - generic [ref=f21e116]: Trusted Since 2009
+            - heading "Your Trusted Partner in Accounting & Compliance" [level=1] [ref=f21e120]
+            - paragraph [ref=f21e121]: We provide comprehensive financial solutions and practical training to help businesses and careers grow with confidence.
+            - generic [ref=f21e122]:
+              - link [ref=f21e123] [cursor=pointer]:
+                - /url: /services
+                - button "Our Services" [ref=f21e124]
+              - link [ref=f21e125] [cursor=pointer]:
+                - /url: /contact
+                - button "Contact Us" [ref=f21e126]
+          - img "Accounting professional" [ref=f21e129]
+      - generic [ref=f21e131]:
+        - generic [ref=f21e132]:
+          - heading "What We Do" [level=2] [ref=f21e133]
+          - heading "Comprehensive Financial Solutions" [level=3] [ref=f21e134]
+          - paragraph [ref=f21e135]: From day-to-day accounting to complex tax compliance and professional training, we cover all your financial needs under one roof.
+        - generic [ref=f21e136]:
+          - generic [ref=f21e141]:
+            - heading "Accounting" [level=3] [ref=f21e145]
+            - paragraph [ref=f21e146]: Expert bookkeeping and financial reporting to keep your business records pristine.
+            - link "Learn More →" [ref=f21e147] [cursor=pointer]:
+              - /url: /services
+              - text: Learn More
+              - generic [ref=f21e148]: →
+          - generic [ref=f21e154]:
+            - heading "GST & Tax" [level=3] [ref=f21e159]
+            - paragraph [ref=f21e160]: Seamless GST filing, income tax return filing, and compliance management.
+            - link "Learn More →" [ref=f21e161] [cursor=pointer]:
+              - /url: /services
+              - text: Learn More
+              - generic [ref=f21e162]: →
+          - generic [ref=f21e169]:
+            - heading "Registrations" [level=3] [ref=f21e175]
+            - paragraph [ref=f21e176]: Company incorporation, trademarking, and business setup services.
+            - link "Learn More →" [ref=f21e177] [cursor=pointer]:
+              - /url: /services
+              - text: Learn More
+              - generic [ref=f21e178]: →
+          - generic [ref=f21e184]:
+            - heading "Training" [level=3] [ref=f21e189]
+            - paragraph [ref=f21e190]: Practical courses in Tally, GST, and Accounting for aspiring professionals.
+            - link "Learn More →" [ref=f21e191] [cursor=pointer]:
+              - /url: /courses
+              - text: Learn More
+              - generic [ref=f21e192]: →
+      - generic [ref=f21e195]:
+        - generic [ref=f21e196]:
+          - generic [ref=f21e197]: 30+
+          - generic [ref=f21e198]: Years Experience
+        - generic [ref=f21e199]:
+          - generic [ref=f21e200]: 500+
+          - generic [ref=f21e201]: Happy Clients
+        - generic [ref=f21e202]:
+          - generic [ref=f21e203]: 2000+
+          - generic [ref=f21e204]: Students Trained
+        - generic [ref=f21e205]:
+          - generic [ref=f21e206]: 100%
+          - generic [ref=f21e207]: Projects Done
+      - generic [ref=f21e210]:
+        - generic [ref=f21e212]:
+          - heading "Coaching Programs" [level=2] [ref=f21e213]
+          - heading "Achieve Your Dreams with Our Expert Coaching" [level=3] [ref=f21e214]
+          - paragraph [ref=f21e215]: We provide specialized coaching for competitive exams and language proficiency to help you excel in your academic and professional journey.
+          - generic [ref=f21e216]:
+            - generic [ref=f21e222]:
+              - heading "E-Commerce Training" [level=4] [ref=f21e223]
+              - paragraph [ref=f21e224]: Master Amazon and Flipkart marketplace management for business growth.
+            - generic [ref=f21e230]:
+              - heading "NET / SET Coaching" [level=4] [ref=f21e231]
+              - paragraph [ref=f21e232]: Expert guidance for University and State level lecturership exams.
+            - generic [ref=f21e238]:
+              - heading "GATE Coaching" [level=4] [ref=f21e239]
+              - paragraph [ref=f21e240]: Comprehensive preparation for Graduate Aptitude Test in Engineering.
+            - generic [ref=f21e246]:
+              - heading "Spoken English" [level=4] [ref=f21e247]
+              - paragraph [ref=f21e248]: Enhance your communication skills and build confidence.
+          - link [ref=f21e250] [cursor=pointer]:
+            - /url: /courses
+            - button "Explore All Programs" [ref=f21e251]
+        - generic [ref=f21e253]:
+          - img "Students learning" [ref=f21e254]
+          - paragraph [ref=f21e256]: "\"Empowering students through quality education and expert mentorship.\""
+      - generic [ref=f21e260]:
+        - generic [ref=f21e261]:
+          - heading "Success Stories" [level=2] [ref=f21e262]
+          - heading "What Our Students & Clients Say" [level=3] [ref=f21e263]
+        - generic [ref=f21e264]:
+          - generic [ref=f21e265]:
+            - paragraph [ref=f21e269]: "\"The NET coaching at Grace Edutech was exceptional. The materials and faculty support helped me clear the exam in my first attempt.\""
+            - generic [ref=f21e270]:
+              - generic [ref=f21e271]: A
+              - generic [ref=f21e272]:
+                - heading "Anitha R." [level=4] [ref=f21e273]
+                - paragraph [ref=f21e274]: NET Qualified
+          - generic [ref=f21e275]:
+            - paragraph [ref=f21e279]: "\"Professional and reliable. They have been handling our company's GST and payroll for 5 years without a single error.\""
+            - generic [ref=f21e280]:
+              - generic [ref=f21e281]: S
+              - generic [ref=f21e282]:
+                - heading "Suresh Kumar" [level=4] [ref=f21e283]
+                - paragraph [ref=f21e284]: Business Owner
+          - generic [ref=f21e285]:
+            - paragraph [ref=f21e289]: "\"The Spoken English course gave me the confidence I needed for my career. The practical approach is what makes them different.\""
+            - generic [ref=f21e290]:
+              - generic [ref=f21e291]: P
+              - generic [ref=f21e292]:
+                - heading "Praveen M." [level=4] [ref=f21e293]
+                - paragraph [ref=f21e294]: IT Professional
+      - generic [ref=f21e296]:
+        - generic [ref=f21e297]:
+          - heading "Questions?" [level=2] [ref=f21e298]
+          - heading "Frequently Asked Questions" [level=3] [ref=f21e299]
+        - generic [ref=f21e300]:
+          - generic [ref=f21e301]:
+            - button "What is the duration of the NET/SET coaching program?" [expanded] [ref=f21e302] [cursor=pointer]
+            - generic [ref=f21e306]: Our intensive coaching programs typically run for 6 months, covering both Paper 1 and Paper 2 with regular mock tests.
+          - button "Do you provide practical training for accounting software?" [ref=f21e309] [cursor=pointer]
+          - button "What is the duration of the E-Commerce training?" [ref=f21e314] [cursor=pointer]
+          - button "Can you help with new company registration?" [ref=f21e319] [cursor=pointer]
+          - button "Is there placement assistance for training courses?" [ref=f21e324] [cursor=pointer]
+      - generic [ref=f21e332]:
+        - heading "Ready to streamline your finances?" [level=2] [ref=f21e333]
+        - paragraph [ref=f21e334]: Join hundreds of satisfied individuals and businesses who trust Grace Edutech for their training and compliance needs.
+        - generic [ref=f21e335]:
+          - link [ref=f21e336] [cursor=pointer]:
+            - /url: /contact
+            - button "Get in Touch" [ref=f21e337]
+          - link [ref=f21e338] [cursor=pointer]:
+            - /url: /courses
+            - button "Explore Courses" [ref=f21e339]
+    - contentinfo [ref=f21e56]:
+      - generic [ref=f21e57]:
+        - generic [ref=f21e58]:
+          - generic [ref=f21e59]:
+            - img "Grace Edutech Logo" [ref=f21e60]
+            - generic [ref=f21e61]:
+              - generic [ref=f21e62]: Grace Edutech
+              - generic [ref=f21e63]: A Unit of Grace Associates
+          - paragraph [ref=f21e64]: Your trusted partner in accounting, taxation, and compliance services with 30+ years of combined experience. Since 2009.
+        - generic [ref=f21e65]:
+          - heading "Quick Links" [level=3] [ref=f21e66]
+          - list [ref=f21e67]:
+            - listitem [ref=f21e68]:
+              - link "About Us" [ref=f21e69] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f21e70]:
+              - link "Services" [ref=f21e71] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f21e72]:
+              - link "Training Courses" [ref=f21e73] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f21e74]:
+              - link "Why Choose Us" [ref=f21e75] [cursor=pointer]:
+                - /url: /why-us
+            - listitem [ref=f21e76]:
+              - link "Careers" [ref=f21e77] [cursor=pointer]:
+                - /url: /careers
+            - listitem [ref=f21e78]:
+              - link "Contact Us" [ref=f21e79] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f21e80]:
+          - heading "Our Services" [level=3] [ref=f21e81]
+          - list [ref=f21e82]:
+            - listitem [ref=f21e83]:
+              - link "GST & Income Tax Filing" [ref=f21e84] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f21e85]:
+              - link "Company Registration (LLP / Pvt. Ltd.)" [ref=f21e86] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f21e87]:
+              - link "NET / SET / GATE Coaching" [ref=f21e88] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f21e89]:
+              - link "Spoken English Training" [ref=f21e90] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f21e91]:
+              - link "Accounting & Tally Training" [ref=f21e92] [cursor=pointer]:
+                - /url: /courses
+        - generic [ref=f21e93]:
+          - heading "Contact Us" [level=3] [ref=f21e94]
+          - list [ref=f21e95]:
+            - listitem [ref=f21e96]:
+              - link "graceedutech26@gmail.com" [ref=f21e100] [cursor=pointer]:
+                - /url: mailto:graceedutech26@gmail.com
+            - listitem [ref=f21e101]:
+              - link "+91 90479 33484" [ref=f21e104] [cursor=pointer]:
+                - /url: tel:+919047933484
+            - listitem [ref=f21e105]:
+              - link "www.graceedutech.com" [ref=f21e106] [cursor=pointer]:
+                - /url: https://www.graceedutech.com
+      - generic [ref=f21e107]:
+        - text: © 2026 Grace Edutech. All rights reserved. Powered by
+        - link "opsmintech.com" [ref=f21e108] [cursor=pointer]:
+          - /url: https://opsmintech.com
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=f21e109]:
+    - link [ref=f21e340] [cursor=pointer]:
+      - /url: tel:+919047933484
+    - link [ref=f21e344] [cursor=pointer]:
+      - /url: https://wa.me/919047933484
+      - generic:
+        - generic: WhatsApp
+        - generic: Chat with us

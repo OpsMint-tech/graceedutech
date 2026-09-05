@@ -1,0 +1,106 @@
+- generic [ref=f11e2]:
+  - generic [ref=f11e3]:
+    - banner [ref=f11e4]:
+      - generic [ref=f11e6]:
+        - link "Grace Edutech Logo Grace Edutech A Unit of Grace Associates" [ref=f11e7] [cursor=pointer]:
+          - /url: /
+          - img "Grace Edutech Logo" [ref=f11e8]
+          - generic [ref=f11e9]:
+            - generic [ref=f11e10]: Grace Edutech
+            - generic [ref=f11e11]: A Unit of Grace Associates
+        - button "Toggle Menu" [ref=f11e12] [cursor=pointer]
+    - main [ref=f11e14]:
+      - generic [ref=f11e15]:
+        - img "Background" [ref=f11e18]
+        - generic [ref=f11e19]:
+          - heading "Contact Us" [level=1] [ref=f11e20]
+          - heading "We are here to help. Reach out for any queries." [level=2] [ref=f11e21]
+      - generic [ref=f11e24]:
+        - generic [ref=f11e25]:
+          - generic [ref=f11e26]:
+            - heading "Get In Touch" [level=2] [ref=f11e27]
+            - paragraph [ref=f11e28]: Have a question about our services or training programs? Fill out the form, and our team will get back to you within 24 hours.
+          - generic [ref=f11e29]:
+            - generic [ref=f11e35]:
+              - heading "Office Location" [level=4] [ref=f11e36]
+              - paragraph [ref=f11e37]: Door No-6, Padma Layout, Trichy Road, Sungam, Ramanathapuram, Coimbatore, Tamil Nadu - 641 045
+            - generic [ref=f11e42]:
+              - heading "Phone" [level=4] [ref=f11e43]
+              - paragraph [ref=f11e44]: +91 90479 33484
+              - paragraph [ref=f11e45]: Mon-Sat 9am-7pm
+            - generic [ref=f11e51]:
+              - heading "Email" [level=4] [ref=f11e52]
+              - paragraph [ref=f11e53]: graceedutech26@gmail.com
+          - iframe [ref=f11e55]
+        - generic [ref=f11e57]:
+          - heading "Course Inquiry" [level=3] [ref=f11e63]
+          - generic [ref=f11e64]:
+            - generic [ref=f11e65]:
+              - text: Full Name
+              - textbox "Your Name" [ref=f11e66]
+            - generic [ref=f11e67]:
+              - text: Phone Number/WhatsApp
+              - textbox "10-digit mobile number" [ref=f11e68]
+            - generic [ref=f11e69]:
+              - text: Select Interested Course
+              - combobox [ref=f11e70] [cursor=pointer]:
+                - generic: Click to choose a course
+              - combobox [aria-hidden] [ref=f11e73]
+            - generic [ref=f11e74]:
+              - generic [ref=f11e75]: Additional Questions (Optional)
+              - textbox "Tell us about your background or requirements..." [ref=f11e76]
+            - button "Get Free Consultation" [ref=f11e77] [cursor=pointer]
+    - contentinfo [ref=f11e78]:
+      - generic [ref=f11e79]:
+        - generic [ref=f11e80]:
+          - generic [ref=f11e81]:
+            - img "Grace Edutech Logo" [ref=f11e82]
+            - generic [ref=f11e83]:
+              - generic [ref=f11e84]: Grace Edutech
+              - generic [ref=f11e85]: A Unit of Grace Associates
+          - paragraph [ref=f11e86]: Your trusted partner in accounting, taxation, and compliance services with 30+ years of combined experience. Since 2009.
+        - generic [ref=f11e87]:
+          - heading "Quick Links" [level=3] [ref=f11e88]
+          - list [ref=f11e89]:
+            - listitem [ref=f11e90]:
+              - link "About Us" [ref=f11e91] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f11e92]:
+              - link "Services" [ref=f11e93] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f11e94]:
+              - link "Training Courses" [ref=f11e95] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f11e96]:
+              - link "Careers" [ref=f11e97] [cursor=pointer]:
+                - /url: /careers
+        - generic [ref=f11e98]:
+          - heading "Our Services" [level=3] [ref=f11e99]
+          - list [ref=f11e100]:
+            - listitem [ref=f11e101]: GST & Income Tax Filing
+            - listitem [ref=f11e102]: Company Registration (LLP / Pvt. Ltd.)
+            - listitem [ref=f11e103]: NET / SET / GATE Coaching
+            - listitem [ref=f11e104]: Spoken English Training
+            - listitem [ref=f11e105]: Accounting & Tally Training
+        - generic [ref=f11e106]:
+          - heading "Contact Us" [level=3] [ref=f11e107]
+          - list [ref=f11e108]:
+            - listitem [ref=f11e109]:
+              - generic [ref=f11e113]: graceedutech26@gmail.com
+            - listitem [ref=f11e114]:
+              - generic [ref=f11e117]: +91 90479 33484
+            - listitem [ref=f11e118]: www.graceedutech.com
+      - generic [ref=f11e119]:
+        - text: © 2026 Grace Edutech. All rights reserved. Powered by
+        - link "opsmintech.com" [ref=f11e120] [cursor=pointer]:
+          - /url: https://opsmintech.com
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=f11e121]:
+    - link "Call Us":
+      - /url: tel:+919047933484
+    - link "WhatsApp Chat with us":
+      - /url: https://wa.me/919047933484
+      - generic:
+        - generic: WhatsApp
+        - generic: Chat with us

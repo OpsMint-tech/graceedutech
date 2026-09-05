@@ -26,14 +26,18 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <div className="bg-primary text-white py-2 text-sm hidden md:block">
         <div className="container-custom flex justify-between items-center">
           <div className="flex gap-6">
-            <span className="flex items-center gap-2"><Phone className="w-4 h-4" /> +91 90479 33484</span>
-            <span className="flex items-center gap-2"><Mail className="w-4 h-4" /> graceedutech26@gmail.com</span>
+            <a href="tel:+919047933484" className="flex items-center gap-2 hover:text-secondary transition-colors">
+              <Phone className="w-4 h-4" /> +91 90479 33484
+            </a>
+            <a href="mailto:graceedutech26@gmail.com" className="flex items-center gap-2 hover:text-secondary transition-colors">
+              <Mail className="w-4 h-4" /> graceedutech26@gmail.com
+            </a>
             <span className="flex items-center gap-2 font-bold text-secondary ml-4">30+ Years of Combined Experience</span>
           </div>
           <div className="flex gap-4">
-            <a href="#" className="hover:text-secondary transition-colors"><Facebook className="w-4 h-4" /></a>
-            <a href="#" className="hover:text-secondary transition-colors"><Linkedin className="w-4 h-4" /></a>
-            <a href="#" className="hover:text-secondary transition-colors"><Instagram className="w-4 h-4" /></a>
+            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Grace Edutech Facebook" className="hover:text-secondary transition-colors"><Facebook className="w-4 h-4" /></a>
+            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="Grace Edutech LinkedIn" className="hover:text-secondary transition-colors"><Linkedin className="w-4 h-4" /></a>
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Grace Edutech Instagram" className="hover:text-secondary transition-colors"><Instagram className="w-4 h-4" /></a>
           </div>
         </div>
       </div>
@@ -169,7 +173,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <li><Link href="/about" className="hover:text-secondary transition-colors">About Us</Link></li>
               <li><Link href="/services" className="hover:text-secondary transition-colors">Services</Link></li>
               <li><Link href="/courses" className="hover:text-secondary transition-colors">Training Courses</Link></li>
+              <li><Link href="/why-us" className="hover:text-secondary transition-colors">Why Choose Us</Link></li>
               <li><Link href="/careers" className="hover:text-secondary transition-colors">Careers</Link></li>
+              <li><Link href="/contact" className="hover:text-secondary transition-colors">Contact Us</Link></li>
             </ul>
           </div>
 
@@ -177,14 +183,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
           <div>
             <h3 className="text-white text-lg font-bold mb-6">Our Services</h3>
             <ul className="space-y-3 text-sm">
-              <li>GST & Income Tax Filing</li>
-              <li>Company Registration (LLP / Pvt. Ltd.)</li>
-              <li>NET / SET / GATE Coaching</li>
-              <li>Spoken English Training</li>
-              <li>Accounting & Tally Training</li>
+              <li><Link href="/services" className="hover:text-secondary transition-colors">GST & Income Tax Filing</Link></li>
+              <li><Link href="/services" className="hover:text-secondary transition-colors">Company Registration (LLP / Pvt. Ltd.)</Link></li>
+              <li><Link href="/courses" className="hover:text-secondary transition-colors">NET / SET / GATE Coaching</Link></li>
+              <li><Link href="/courses" className="hover:text-secondary transition-colors">Spoken English Training</Link></li>
+              <li><Link href="/courses" className="hover:text-secondary transition-colors">Accounting & Tally Training</Link></li>
             </ul>
           </div>
-
 
           {/* Contact */}
           <div>
@@ -192,14 +197,16 @@ export function Layout({ children }: { children: React.ReactNode }) {
             <ul className="space-y-4 text-sm">
               <li className="flex gap-3">
                 <Mail className="w-5 h-5 text-secondary shrink-0" />
-                <span>graceedutech26@gmail.com</span>
+                <a href="mailto:graceedutech26@gmail.com" className="hover:text-secondary transition-colors">graceedutech26@gmail.com</a>
               </li>
               <li className="flex gap-3">
                 <Phone className="w-5 h-5 text-secondary shrink-0" />
-                <span>+91 90479 33484</span>
+                <a href="tel:+919047933484" className="hover:text-secondary transition-colors">+91 90479 33484</a>
               </li>
-              <li className="flex gap-3 text-secondary font-bold">
-                www.graceedutech.com
+              <li className="flex gap-3">
+                <a href="https://www.graceedutech.com" target="_blank" rel="noopener noreferrer" className="text-secondary font-bold hover:underline">
+                  www.graceedutech.com
+                </a>
               </li>
             </ul>
           </div>

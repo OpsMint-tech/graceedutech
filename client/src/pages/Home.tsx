@@ -1,12 +1,13 @@
+import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { ArrowRight, CheckCircle2, FileText, Calculator, GraduationCap, Building2, Quote, ChevronDown } from "lucide-react";
 import { ServiceCard } from "@/components/ServiceCard";
-import { ReelsSection } from "@/components/ReelsSection";
 
 
 export default function Home() {
+  const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(0);
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -360,17 +361,40 @@ export default function Home() {
                 q: "Is there placement assistance for training courses?",
                 a: "Yes, we provide placement support and career guidance for students who successfully complete our Master Diploma in Accounting."
               }
-            ].map((faq, i) => (
-              <div key={i} className="border border-slate-200 rounded-xl overflow-hidden">
-                <button className="w-full flex items-center justify-between p-6 text-left hover:bg-slate-50 transition-colors">
-                  <span className="font-bold text-slate-900">{faq.q}</span>
-                  <ChevronDown className="w-5 h-5 text-slate-400" />
-                </button>
-                <div className="px-6 pb-6 text-slate-600">
-                  {faq.a}
+            ].map((faq, i) => {
+              const isOpen = openFaqIndex === i;
+              return (
+                <div key={i} className="border border-slate-200 rounded-xl overflow-hidden transition-colors">
+                  <button
+                    onClick={() => setOpenFaqIndex(isOpen ? null : i)}
+                    className="w-full flex items-center justify-between p-6 text-left hover:bg-slate-50 transition-colors cursor-pointer"
+                    aria-expanded={isOpen}
+                  >
+                    <span className="font-bold text-slate-900 pr-4">{faq.q}</span>
+                    <ChevronDown
+                      className={`w-5 h-5 text-slate-400 shrink-0 transition-transform duration-200 ${
+                        isOpen ? "rotate-180 text-primary" : ""
+                      }`}
+                    />
+                  </button>
+                  <AnimatePresence initial={false}>
+                    {isOpen && (
+                      <motion.div
+                        initial={{ height: 0, opacity: 0 }}
+                        animate={{ height: "auto", opacity: 1 }}
+                        exit={{ height: 0, opacity: 0 }}
+                        transition={{ duration: 0.25, ease: "easeInOut" }}
+                        className="overflow-hidden"
+                      >
+                        <div className="px-6 pb-6 text-slate-600 leading-relaxed">
+                          {faq.a}
+                        </div>
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
                 </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>

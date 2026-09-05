@@ -1,0 +1,122 @@
+- generic [ref=f21e2]:
+  - generic [ref=f21e3]:
+    - generic [ref=f21e5]:
+      - generic [ref=f21e6]:
+        - link "+91 90479 33484" [ref=f21e7] [cursor=pointer]:
+          - /url: tel:+919047933484
+        - link "graceedutech26@gmail.com" [ref=f21e10] [cursor=pointer]:
+          - /url: mailto:graceedutech26@gmail.com
+        - generic [ref=f21e14]: 30+ Years of Combined Experience
+      - generic [ref=f21e15]:
+        - link "Grace Edutech Facebook" [ref=f21e16] [cursor=pointer]:
+          - /url: https://facebook.com
+        - link "Grace Edutech LinkedIn" [ref=f21e19] [cursor=pointer]:
+          - /url: https://linkedin.com
+        - link "Grace Edutech Instagram" [ref=f21e24] [cursor=pointer]:
+          - /url: https://instagram.com
+    - banner [ref=f21e28]:
+      - generic [ref=f21e30]:
+        - link "Grace Edutech Logo Grace Edutech A Unit of Grace Associates" [ref=f21e31] [cursor=pointer]:
+          - /url: /
+          - img "Grace Edutech Logo" [ref=f21e32]
+          - generic [ref=f21e33]:
+            - generic [ref=f21e34]: Grace Edutech
+            - generic [ref=f21e35]: A Unit of Grace Associates
+        - navigation [ref=f21e36]:
+          - link "Home" [ref=f21e37] [cursor=pointer]:
+            - /url: /
+          - link "About" [ref=f21e38] [cursor=pointer]:
+            - /url: /about
+          - link "Services" [ref=f21e39] [cursor=pointer]:
+            - /url: /services
+          - link "Courses" [ref=f21e40] [cursor=pointer]:
+            - /url: /courses
+          - link "Practical Services" [ref=f21e41] [cursor=pointer]:
+            - /url: /practical-services
+          - link "Why Us" [ref=f21e42] [cursor=pointer]:
+            - /url: /why-us
+          - link "Careers" [ref=f21e43] [cursor=pointer]:
+            - /url: /careers
+          - link "Contact" [ref=f21e44] [cursor=pointer]:
+            - /url: /contact
+    - main [ref=f21e45]:
+      - generic [ref=f21e48]:
+        - heading "Page Not Found" [level=1] [ref=f21e52]
+        - paragraph [ref=f21e53]: The page you are looking for might have been moved, deleted, or does not exist.
+        - link [ref=f21e54] [cursor=pointer]:
+          - /url: /
+          - button "Back to Home" [ref=f21e55]
+    - contentinfo [ref=f21e56]:
+      - generic [ref=f21e57]:
+        - generic [ref=f21e58]:
+          - generic [ref=f21e59]:
+            - img "Grace Edutech Logo" [ref=f21e60]
+            - generic [ref=f21e61]:
+              - generic [ref=f21e62]: Grace Edutech
+              - generic [ref=f21e63]: A Unit of Grace Associates
+          - paragraph [ref=f21e64]: Your trusted partner in accounting, taxation, and compliance services with 30+ years of combined experience. Since 2009.
+        - generic [ref=f21e65]:
+          - heading "Quick Links" [level=3] [ref=f21e66]
+          - list [ref=f21e67]:
+            - listitem [ref=f21e68]:
+              - link "About Us" [ref=f21e69] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f21e70]:
+              - link "Services" [ref=f21e71] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f21e72]:
+              - link "Training Courses" [ref=f21e73] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f21e74]:
+              - link "Why Choose Us" [ref=f21e75] [cursor=pointer]:
+                - /url: /why-us
+            - listitem [ref=f21e76]:
+              - link "Careers" [ref=f21e77] [cursor=pointer]:
+                - /url: /careers
+            - listitem [ref=f21e78]:
+              - link "Contact Us" [ref=f21e79] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f21e80]:
+          - heading "Our Services" [level=3] [ref=f21e81]
+          - list [ref=f21e82]:
+            - listitem [ref=f21e83]:
+              - link "GST & Income Tax Filing" [ref=f21e84] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f21e85]:
+              - link "Company Registration (LLP / Pvt. Ltd.)" [ref=f21e86] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f21e87]:
+              - link "NET / SET / GATE Coaching" [ref=f21e88] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f21e89]:
+              - link "Spoken English Training" [ref=f21e90] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f21e91]:
+              - link "Accounting & Tally Training" [ref=f21e92] [cursor=pointer]:
+                - /url: /courses
+        - generic [ref=f21e93]:
+          - heading "Contact Us" [level=3] [ref=f21e94]
+          - list [ref=f21e95]:
+            - listitem [ref=f21e96]:
+              - link "graceedutech26@gmail.com" [ref=f21e100] [cursor=pointer]:
+                - /url: mailto:graceedutech26@gmail.com
+            - listitem [ref=f21e101]:
+              - link "+91 90479 33484" [ref=f21e104] [cursor=pointer]:
+                - /url: tel:+919047933484
+            - listitem [ref=f21e105]:
+              - link "www.graceedutech.com" [ref=f21e106] [cursor=pointer]:
+                - /url: https://www.graceedutech.com
+      - generic [ref=f21e107]:
+        - text: © 2026 Grace Edutech. All rights reserved. Powered by
+        - link "opsmintech.com" [ref=f21e108] [cursor=pointer]:
+          - /url: https://opsmintech.com
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=f21e109]:
+    - link "Call Us":
+      - /url: tel:+919047933484
+    - link "WhatsApp Chat with us":
+      - /url: https://wa.me/919047933484
+      - generic:
+        - generic: WhatsApp
+        - generic: Chat with us

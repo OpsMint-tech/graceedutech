@@ -1,0 +1,485 @@
+- generic [ref=f13e2]:
+  - generic [ref=f13e3]:
+    - banner [ref=f13e4]:
+      - generic [ref=f13e6]:
+        - link "Grace Edutech Logo Grace Edutech A Unit of Grace Associates" [ref=f13e7] [cursor=pointer]:
+          - /url: /
+          - img "Grace Edutech Logo" [ref=f13e8]
+          - generic [ref=f13e9]:
+            - generic [ref=f13e10]: Grace Edutech
+            - generic [ref=f13e11]: A Unit of Grace Associates
+        - button "Toggle Menu" [ref=f13e12] [cursor=pointer]
+    - main [ref=f13e14]:
+      - generic [ref=f13e15]:
+        - img "Background" [ref=f13e18]
+        - generic [ref=f13e19]:
+          - heading "Training Courses" [level=1] [ref=f13e20]
+          - heading "Bridging the gap between theory and practice." [level=2] [ref=f13e21]
+      - generic [ref=f13e23]:
+        - generic [ref=f13e24]:
+          - generic [ref=f13e25]:
+            - heading "Accounting & Finance" [level=2] [ref=f13e26]
+            - generic [ref=f13e27]: 5 Courses Available
+          - generic [ref=f13e28]:
+            - generic [ref=f13e30]:
+              - generic [ref=f13e31]:
+                - generic [ref=f13e32]: Intermediate
+                - generic [ref=f13e33]: 45 Days
+              - heading "Tally Prime (Advanced)" [level=3] [ref=f13e36]
+              - list [ref=f13e37]:
+                - listitem [ref=f13e38]: Inventory Management
+                - listitem [ref=f13e42]: Payroll
+                - listitem [ref=f13e46]: GST Integration
+                - listitem [ref=f13e50]: Banking
+              - link [ref=f13e54] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e55]
+            - generic [ref=f13e57]:
+              - generic [ref=f13e58]:
+                - generic [ref=f13e59]: Advanced
+                - generic [ref=f13e60]: 30 Days
+              - heading "GST with Practical Filing" [level=3] [ref=f13e63]
+              - list [ref=f13e64]:
+                - listitem [ref=f13e65]: GSTR-1, 3B Filing
+                - listitem [ref=f13e69]: E-Way Bill
+                - listitem [ref=f13e73]: Input Tax Credit
+                - listitem [ref=f13e77]: Reconciliation
+              - link [ref=f13e81] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e82]
+            - generic [ref=f13e84]:
+              - generic [ref=f13e85]:
+                - generic [ref=f13e86]: All Levels
+                - generic [ref=f13e87]: 20 Days
+              - heading "Income Tax Return (ITR)" [level=3] [ref=f13e90]
+              - list [ref=f13e91]:
+                - listitem [ref=f13e92]: ITR 1-4 Filing
+                - listitem [ref=f13e96]: Tax Planning
+                - listitem [ref=f13e100]: Deductions
+                - listitem [ref=f13e104]: Portal Training
+              - link [ref=f13e108] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e109]
+            - generic [ref=f13e111]:
+              - generic [ref=f13e112]:
+                - generic [ref=f13e113]: Professional
+                - generic [ref=f13e114]: 25 Days
+              - heading "TDS / ESI / EPF" [level=3] [ref=f13e117]
+              - list [ref=f13e118]:
+                - listitem [ref=f13e119]: Challan Payment
+                - listitem [ref=f13e123]: Quarterly Returns
+                - listitem [ref=f13e127]: Employee Compliance
+                - listitem [ref=f13e131]: PF Withdrawal
+              - link [ref=f13e135] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e136]
+            - generic [ref=f13e138]:
+              - generic [ref=f13e139]:
+                - generic [ref=f13e140]: Beginner
+                - generic [ref=f13e141]: 1 Week
+              - heading "Form 15G & 15H Filing" [level=3] [ref=f13e144]
+              - list [ref=f13e145]:
+                - listitem [ref=f13e146]: Eligibility Check
+                - listitem [ref=f13e150]: Online Submission
+                - listitem [ref=f13e154]: Bank Coordination
+                - listitem [ref=f13e158]: Documentation
+              - link [ref=f13e162] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e163]
+        - generic [ref=f13e164]:
+          - generic [ref=f13e165]:
+            - heading "E-Commerce Training" [level=2] [ref=f13e166]
+            - generic [ref=f13e167]: 8 Courses Available
+          - generic [ref=f13e168]:
+            - generic [ref=f13e170]:
+              - generic [ref=f13e171]:
+                - generic [ref=f13e172]: Beginner
+                - generic [ref=f13e173]: 10 Days
+              - heading "Basic E-Commerce Training" [level=3] [ref=f13e176]
+              - list [ref=f13e177]:
+                - listitem [ref=f13e178]: Business Models Intro
+                - listitem [ref=f13e182]: Account Creation
+                - listitem [ref=f13e186]: GST Basics
+              - link [ref=f13e190] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e191]
+            - generic [ref=f13e193]:
+              - generic [ref=f13e194]:
+                - generic [ref=f13e195]: Advanced
+                - generic [ref=f13e196]: 30 Days
+              - heading "Advanced Marketplace Management" [level=3] [ref=f13e199]
+              - list [ref=f13e200]:
+                - listitem [ref=f13e201]: Product Research
+                - listitem [ref=f13e205]: Inventory Management
+                - listitem [ref=f13e209]: Scaling Strategy
+              - link [ref=f13e213] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e214]
+            - generic [ref=f13e216]:
+              - generic [ref=f13e217]:
+                - generic [ref=f13e218]: Expert
+                - generic [ref=f13e219]: 45 Days
+              - heading "Amazon Seller Central Training" [level=3] [ref=f13e222]
+              - list [ref=f13e223]:
+                - listitem [ref=f13e224]: Complete Dashboard Training
+                - listitem [ref=f13e228]: Buy Box Winning
+                - listitem [ref=f13e232]: Listing Optimization
+              - link [ref=f13e236] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e237]
+            - generic [ref=f13e239]:
+              - generic [ref=f13e240]:
+                - generic [ref=f13e241]: Advanced
+                - generic [ref=f13e242]: 30 Days
+              - heading "Flipkart Seller Hub Training" [level=3] [ref=f13e245]
+              - list [ref=f13e246]:
+                - listitem [ref=f13e247]: Hub Complete Training
+                - listitem [ref=f13e251]: Promotional Campaigns
+                - listitem [ref=f13e255]: Return Handling
+              - link [ref=f13e259] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e260]
+            - generic [ref=f13e262]:
+              - generic [ref=f13e263]:
+                - generic [ref=f13e264]: Intermediate
+                - generic [ref=f13e265]: 10 Days
+              - heading "Listing & Catalogue Management" [level=3] [ref=f13e268]
+              - list [ref=f13e269]:
+                - listitem [ref=f13e270]: Brand & Category Approval
+                - listitem [ref=f13e274]: SEO-Based Creation
+                - listitem [ref=f13e278]: Photoshoot Guidelines
+              - link [ref=f13e282] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e283]
+            - generic [ref=f13e285]:
+              - generic [ref=f13e286]:
+                - generic [ref=f13e287]: Advanced
+                - generic [ref=f13e288]: 15 Days
+              - heading "Amazon PPC & Advertising" [level=3] [ref=f13e291]
+              - list [ref=f13e292]:
+                - listitem [ref=f13e293]: Campaign Setup
+                - listitem [ref=f13e297]: ACOS Optimization
+                - listitem [ref=f13e301]: Performance Tracking
+              - link [ref=f13e305] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e306]
+            - generic [ref=f13e308]:
+              - generic [ref=f13e309]:
+                - generic [ref=f13e310]: Professional
+                - generic [ref=f13e311]: 10 Days
+              - heading "Account Health & Reinstatement" [level=3] [ref=f13e314]
+              - list [ref=f13e315]:
+                - listitem [ref=f13e316]: Policy Compliance
+                - listitem [ref=f13e320]: POA Preparation
+                - listitem [ref=f13e324]: Performance Scaling
+              - link [ref=f13e328] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e329]
+            - generic [ref=f13e331]:
+              - generic [ref=f13e332]:
+                - generic [ref=f13e333]: Expert
+                - generic [ref=f13e334]: 30 Days
+              - heading "E-Commerce Placement Training" [level=3] [ref=f13e337]
+              - list [ref=f13e338]:
+                - listitem [ref=f13e339]: Placement Assistance
+                - listitem [ref=f13e343]: Live Marketplace Exp
+                - listitem [ref=f13e347]: Internship Opportunities
+              - link [ref=f13e351] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e352]
+        - generic [ref=f13e353]:
+          - generic [ref=f13e354]:
+            - heading "IT & Software Development" [level=2] [ref=f13e355]
+            - generic [ref=f13e356]: 7 Courses Available
+          - generic [ref=f13e357]:
+            - generic [ref=f13e359]:
+              - generic [ref=f13e360]:
+                - generic [ref=f13e361]: Advanced
+                - generic [ref=f13e362]: 3 Months
+              - heading "DevOps" [level=3] [ref=f13e365]
+              - list [ref=f13e366]:
+                - listitem [ref=f13e367]: CI/CD Pipelines
+                - listitem [ref=f13e371]: Docker & Kubernetes
+                - listitem [ref=f13e375]: Cloud Deployment (AWS/Azure)
+                - listitem [ref=f13e379]: Monitoring & Logging
+              - link [ref=f13e383] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e384]
+            - generic [ref=f13e386]:
+              - generic [ref=f13e387]:
+                - generic [ref=f13e388]: Beginner
+                - generic [ref=f13e389]: 2 Months
+              - heading "Python & SQL" [level=3] [ref=f13e392]
+              - list [ref=f13e393]:
+                - listitem [ref=f13e394]: Python Programming Fundamentals
+                - listitem [ref=f13e398]: Data Manipulation & Analysis
+                - listitem [ref=f13e402]: SQL Queries & Database Design
+                - listitem [ref=f13e406]: Real-World Projects
+              - link [ref=f13e410] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e411]
+            - generic [ref=f13e413]:
+              - generic [ref=f13e414]:
+                - generic [ref=f13e415]: Intermediate
+                - generic [ref=f13e416]: 6 Months
+              - heading "Full Stack Development" [level=3] [ref=f13e419]
+              - list [ref=f13e420]:
+                - listitem [ref=f13e421]: Frontend (HTML, CSS, React)
+                - listitem [ref=f13e425]: Backend (Node.js, Express)
+                - listitem [ref=f13e429]: Database (MongoDB, SQL)
+                - listitem [ref=f13e433]: Deployment & Portfolio
+              - link [ref=f13e437] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e438]
+            - generic [ref=f13e440]:
+              - generic [ref=f13e441]:
+                - generic [ref=f13e442]: Intermediate
+                - generic [ref=f13e443]: 3 Months
+              - heading "Java" [level=3] [ref=f13e446]
+              - list [ref=f13e447]:
+                - listitem [ref=f13e448]: Core Java & OOP Concepts
+                - listitem [ref=f13e452]: Collections & Multithreading
+                - listitem [ref=f13e456]: Spring Boot Framework
+                - listitem [ref=f13e460]: Project Development
+              - link [ref=f13e464] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e465]
+            - generic [ref=f13e467]:
+              - generic [ref=f13e468]:
+                - generic [ref=f13e469]: Professional
+                - generic [ref=f13e470]: 3 Months
+              - heading "Medical Coding" [level=3] [ref=f13e473]
+              - list [ref=f13e474]:
+                - listitem [ref=f13e475]: ICD-10 & CPT Coding
+                - listitem [ref=f13e479]: Medical Terminology
+                - listitem [ref=f13e483]: Healthcare Compliance (HIPAA)
+                - listitem [ref=f13e487]: Revenue Cycle Management
+              - link [ref=f13e491] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e492]
+            - generic [ref=f13e494]:
+              - generic [ref=f13e495]:
+                - generic [ref=f13e496]: Intermediate
+                - generic [ref=f13e497]: 45 Days
+              - heading "Power BI" [level=3] [ref=f13e500]
+              - list [ref=f13e501]:
+                - listitem [ref=f13e502]: Data Visualization & Dashboards
+                - listitem [ref=f13e506]: DAX Formulas & Measures
+                - listitem [ref=f13e510]: Data Modeling & ETL
+                - listitem [ref=f13e514]: Real-Time Reporting
+              - link [ref=f13e518] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e519]
+            - generic [ref=f13e521]:
+              - generic [ref=f13e522]:
+                - generic [ref=f13e523]: Advanced
+                - generic [ref=f13e524]: 4 Months
+              - heading "AI & Machine Learning" [level=3] [ref=f13e527]
+              - list [ref=f13e528]:
+                - listitem [ref=f13e529]: Machine Learning Algorithms
+                - listitem [ref=f13e533]: Deep Learning & Neural Networks
+                - listitem [ref=f13e537]: Natural Language Processing
+                - listitem [ref=f13e541]: Hands-On Projects with Python
+              - link [ref=f13e545] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e546]
+        - generic [ref=f13e547]:
+          - generic [ref=f13e548]:
+            - heading "Design & Mobile Development" [level=2] [ref=f13e549]
+            - generic [ref=f13e550]: 3 Courses Available
+          - generic [ref=f13e551]:
+            - generic [ref=f13e553]:
+              - generic [ref=f13e554]:
+                - generic [ref=f13e555]: Beginner
+                - generic [ref=f13e556]: 30 Days
+              - heading "Adobe XD" [level=3] [ref=f13e559]
+              - list [ref=f13e560]:
+                - listitem [ref=f13e561]: UI/UX Design Principles
+                - listitem [ref=f13e565]: Wireframing & Prototyping
+                - listitem [ref=f13e569]: Interactive Design
+                - listitem [ref=f13e573]: Design Systems & Components
+              - link [ref=f13e577] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e578]
+            - generic [ref=f13e580]:
+              - generic [ref=f13e581]:
+                - generic [ref=f13e582]: Beginner
+                - generic [ref=f13e583]: 30 Days
+              - heading "Adobe Illustrator" [level=3] [ref=f13e586]
+              - list [ref=f13e587]:
+                - listitem [ref=f13e588]: Vector Graphics & Illustration
+                - listitem [ref=f13e592]: Logo & Branding Design
+                - listitem [ref=f13e596]: Typography & Layout
+                - listitem [ref=f13e600]: Print & Digital Media
+              - link [ref=f13e604] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e605]
+            - generic [ref=f13e607]:
+              - generic [ref=f13e608]:
+                - generic [ref=f13e609]: Advanced
+                - generic [ref=f13e610]: 6 Months
+              - heading "iOS & Android App Development" [level=3] [ref=f13e613]
+              - list [ref=f13e614]:
+                - listitem [ref=f13e615]: React Native / Flutter
+                - listitem [ref=f13e619]: UI/UX for Mobile Apps
+                - listitem [ref=f13e623]: API Integration & State Management
+                - listitem [ref=f13e627]: App Store Deployment
+              - link [ref=f13e631] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e632]
+        - generic [ref=f13e633]:
+          - generic [ref=f13e634]:
+            - heading "Competitive Exams" [level=2] [ref=f13e635]
+            - generic [ref=f13e636]: 2 Courses Available
+          - generic [ref=f13e637]:
+            - generic [ref=f13e639]:
+              - generic [ref=f13e640]:
+                - generic [ref=f13e641]: Competitive
+                - generic [ref=f13e642]: 6 Months
+              - heading "NET / SET Coaching" [level=3] [ref=f13e645]
+              - list [ref=f13e646]:
+                - listitem [ref=f13e647]: UGC NET/SET Paper 1 & 2
+                - listitem [ref=f13e651]: Regular Mock Tests
+                - listitem [ref=f13e655]: Updated Study Materials
+                - listitem [ref=f13e659]: Expert Mentorship
+              - link [ref=f13e663] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e664]
+            - generic [ref=f13e666]:
+              - generic [ref=f13e667]:
+                - generic [ref=f13e668]: Entrance Exam
+                - generic [ref=f13e669]: 1 Year
+              - heading "GATE Coaching" [level=3] [ref=f13e672]
+              - list [ref=f13e673]:
+                - listitem [ref=f13e674]: Engineering Subjects
+                - listitem [ref=f13e678]: Aptitude Training
+                - listitem [ref=f13e682]: Previous Year Solved Papers
+                - listitem [ref=f13e686]: Test Series
+              - link [ref=f13e690] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e691]
+        - generic [ref=f13e692]:
+          - generic [ref=f13e693]:
+            - heading "Professional Skills" [level=2] [ref=f13e694]
+            - generic [ref=f13e695]: 2 Courses Available
+          - generic [ref=f13e696]:
+            - generic [ref=f13e698]:
+              - generic [ref=f13e699]:
+                - generic [ref=f13e700]: Language
+                - generic [ref=f13e701]: 3 Months
+              - heading "Spoken English" [level=3] [ref=f13e704]
+              - list [ref=f13e705]:
+                - listitem [ref=f13e706]: Communication Skills
+                - listitem [ref=f13e710]: Grammar & Vocabulary
+                - listitem [ref=f13e714]: Public Speaking
+                - listitem [ref=f13e718]: Confidence Building
+              - link [ref=f13e722] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e723]
+            - generic [ref=f13e725]:
+              - generic [ref=f13e726]:
+                - generic [ref=f13e727]: Expert
+                - generic [ref=f13e728]: 90 Days
+              - heading "Master Diploma in Accounting" [level=3] [ref=f13e731]
+              - list [ref=f13e732]:
+                - listitem [ref=f13e733]: All-in-one Package
+                - listitem [ref=f13e737]: Live Projects
+                - listitem [ref=f13e741]: Placement Assistance
+                - listitem [ref=f13e745]: Certification
+              - link [ref=f13e749] [cursor=pointer]:
+                - /url: /contact
+                - button "Enroll Now" [ref=f13e750]
+      - generic [ref=f13e752]:
+        - generic [ref=f13e753]:
+          - heading "Why Choose E-Commerce Training?" [level=2] [ref=f13e754]
+          - paragraph [ref=f13e755]: Grace Edutech is a professional E-Commerce training institute focused on providing practical knowledge and real-time marketplace experience.
+        - generic [ref=f13e756]:
+          - generic [ref=f13e757]:
+            - heading "Practical Training" [level=4] [ref=f13e761]
+            - paragraph [ref=f13e762]: Real Marketplace Experience with Live Accounts
+          - generic [ref=f13e763]:
+            - heading "Expert Trainers" [level=4] [ref=f13e767]
+            - paragraph [ref=f13e768]: Industry-Oriented Guidance and Support
+          - generic [ref=f13e769]:
+            - heading "Affordable Fees" [level=4] [ref=f13e773]
+            - paragraph [ref=f13e774]: Quality Education at Competitive Prices
+          - generic [ref=f13e775]:
+            - heading "Job Placement" [level=4] [ref=f13e779]
+            - paragraph [ref=f13e780]: Assistance in E-Commerce & Agency Roles
+        - generic [ref=f13e782]:
+          - generic [ref=f13e783]:
+            - heading "Career Opportunities" [level=3] [ref=f13e784]
+            - paragraph [ref=f13e785]: Our students work as E-Commerce Executives, Catalog Managers, PPC Experts, and Operations Leads at top brands.
+            - generic [ref=f13e786]:
+              - generic [ref=f13e787]: Amazon Manager
+              - generic [ref=f13e788]: Flipkart Specialist
+              - generic [ref=f13e789]: PPC Executive
+              - generic [ref=f13e790]: Catalog Expert
+          - generic [ref=f13e791]:
+            - heading "Training Duration" [level=3] [ref=f13e792]
+            - generic [ref=f13e793]:
+              - generic [ref=f13e794]: 10 Days
+              - generic [ref=f13e797]: 30 Days
+              - generic [ref=f13e800]: 45 Days
+            - paragraph [ref=f13e803]: "Mode: Available in both Online & Offline Classes"
+      - generic [ref=f13e805]:
+        - generic [ref=f13e811]:
+          - heading "Get Certified" [level=2] [ref=f13e812]
+          - paragraph [ref=f13e813]: Receive a recognized certification upon completion of your course, validating your skills to future employers.
+        - generic [ref=f13e818]:
+          - heading "Practical Focus" [level=2] [ref=f13e819]
+          - paragraph [ref=f13e820]: Our curriculum is 80% practical, ensuring you are job-ready from day one.
+    - contentinfo [ref=f13e821]:
+      - generic [ref=f13e822]:
+        - generic [ref=f13e823]:
+          - generic [ref=f13e824]:
+            - img "Grace Edutech Logo" [ref=f13e825]
+            - generic [ref=f13e826]:
+              - generic [ref=f13e827]: Grace Edutech
+              - generic [ref=f13e828]: A Unit of Grace Associates
+          - paragraph [ref=f13e829]: Your trusted partner in accounting, taxation, and compliance services with 30+ years of combined experience. Since 2009.
+        - generic [ref=f13e830]:
+          - heading "Quick Links" [level=3] [ref=f13e831]
+          - list [ref=f13e832]:
+            - listitem [ref=f13e833]:
+              - link "About Us" [ref=f13e834] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f13e835]:
+              - link "Services" [ref=f13e836] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f13e837]:
+              - link "Training Courses" [ref=f13e838] [cursor=pointer]:
+                - /url: /courses
+            - listitem [ref=f13e839]:
+              - link "Careers" [ref=f13e840] [cursor=pointer]:
+                - /url: /careers
+        - generic [ref=f13e841]:
+          - heading "Our Services" [level=3] [ref=f13e842]
+          - list [ref=f13e843]:
+            - listitem [ref=f13e844]: GST & Income Tax Filing
+            - listitem [ref=f13e845]: Company Registration (LLP / Pvt. Ltd.)
+            - listitem [ref=f13e846]: NET / SET / GATE Coaching
+            - listitem [ref=f13e847]: Spoken English Training
+            - listitem [ref=f13e848]: Accounting & Tally Training
+        - generic [ref=f13e849]:
+          - heading "Contact Us" [level=3] [ref=f13e850]
+          - list [ref=f13e851]:
+            - listitem [ref=f13e852]:
+              - generic [ref=f13e856]: graceedutech26@gmail.com
+            - listitem [ref=f13e857]:
+              - generic [ref=f13e860]: +91 90479 33484
+            - listitem [ref=f13e861]: www.graceedutech.com
+      - generic [ref=f13e862]:
+        - text: © 2026 Grace Edutech. All rights reserved. Powered by
+        - link "opsmintech.com" [ref=f13e863] [cursor=pointer]:
+          - /url: https://opsmintech.com
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=f13e864]:
+    - link "Call Us":
+      - /url: tel:+919047933484
+    - link "WhatsApp Chat with us":
+      - /url: https://wa.me/919047933484
+      - generic:
+        - generic: WhatsApp
+        - generic: Chat with us

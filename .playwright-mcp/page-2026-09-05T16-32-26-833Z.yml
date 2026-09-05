@@ -1,0 +1,199 @@
+- generic:
+  - generic [aria-hidden]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic: +91 90479 33484
+            - generic: graceedutech26@gmail.com
+            - generic: 30+ Years of Combined Experience
+          - generic:
+            - link:
+              - /url: "#"
+            - link:
+              - /url: "#"
+            - link:
+              - /url: "#"
+      - banner:
+        - generic:
+          - generic:
+            - link:
+              - /url: /
+              - generic:
+                - generic: Grace Edutech
+                - generic: A Unit of Grace Associates
+            - navigation:
+              - link:
+                - /url: /
+                - text: Home
+              - link:
+                - /url: /about
+                - text: About
+              - link:
+                - /url: /services
+                - text: Services
+              - link:
+                - /url: /courses
+                - text: Courses
+              - link:
+                - /url: /practical-services
+                - text: Practical Services
+              - link:
+                - /url: /why-us
+                - text: Why Us
+              - link:
+                - /url: /careers
+                - text: Careers
+              - link:
+                - /url: /contact
+                - text: Contact
+      - main:
+        - generic:
+          - generic:
+            - heading [level=1]: Contact Us
+            - heading [level=2]: We are here to help. Reach out for any queries.
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - heading [level=2]: Get In Touch
+                  - paragraph: Have a question about our services or training programs? Fill out the form, and our team will get back to you within 24 hours.
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading [level=4]: Office Location
+                      - paragraph: Door No-6, Padma Layout, Trichy Road, Sungam, Ramanathapuram, Coimbatore, Tamil Nadu - 641 045
+                  - generic:
+                    - generic:
+                      - heading [level=4]: Phone
+                      - paragraph: +91 90479 33484
+                      - paragraph: Mon-Sat 9am-7pm
+                  - generic:
+                    - generic:
+                      - heading [level=4]: Email
+                      - paragraph: graceedutech26@gmail.com
+                - iframe [ref=f16e86]
+              - generic:
+                - generic:
+                  - generic:
+                    - heading [level=3]: Course Inquiry
+                  - generic:
+                    - generic:
+                      - text: Full Name
+                      - textbox:
+                        - /placeholder: Your Name
+                        - text: John Doe
+                    - generic:
+                      - text: Phone Number/WhatsApp
+                      - textbox:
+                        - /placeholder: 10-digit mobile number
+                        - text: "9876543210"
+                    - generic:
+                      - text: Select Interested Course
+                      - combobox [expanded]:
+                        - generic: Click to choose a course
+                      - combobox [aria-hidden]
+                    - generic:
+                      - generic: Additional Questions (Optional)
+                      - textbox:
+                        - /placeholder: Tell us about your background or requirements...
+                    - button: Get Free Consultation
+      - contentinfo:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic: Grace Edutech
+                - generic: A Unit of Grace Associates
+            - paragraph: Your trusted partner in accounting, taxation, and compliance services with 30+ years of combined experience. Since 2009.
+          - generic:
+            - heading [level=3]: Quick Links
+            - list:
+              - listitem:
+                - link:
+                  - /url: /about
+                  - text: About Us
+              - listitem:
+                - link:
+                  - /url: /services
+                  - text: Services
+              - listitem:
+                - link:
+                  - /url: /courses
+                  - text: Training Courses
+              - listitem:
+                - link:
+                  - /url: /careers
+                  - text: Careers
+          - generic:
+            - heading [level=3]: Our Services
+            - list:
+              - listitem: GST & Income Tax Filing
+              - listitem: Company Registration (LLP / Pvt. Ltd.)
+              - listitem: NET / SET / GATE Coaching
+              - listitem: Spoken English Training
+              - listitem: Accounting & Tally Training
+          - generic:
+            - heading [level=3]: Contact Us
+            - list:
+              - listitem:
+                - generic: graceedutech26@gmail.com
+              - listitem:
+                - generic: +91 90479 33484
+              - listitem: www.graceedutech.com
+        - generic:
+          - text: © 2026 Grace Edutech. All rights reserved. Powered by
+          - link:
+            - /url: https://opsmintech.com
+            - text: opsmintech.com
+    - list
+    - generic:
+      - link:
+        - /url: tel:+919047933484
+        - generic: Call Us
+      - link:
+        - /url: https://wa.me/919047933484
+        - generic:
+          - generic: WhatsApp
+          - generic: Chat with us
+  - listbox [ref=f16e153]:
+    - generic [ref=f16e154]:
+      - generic [ref=f16e155]: Accounting & Finance
+      - option "Tally Prime (Advanced)" [active] [ref=f16e156] [cursor=pointer]
+      - option "GST with Practical Filing" [ref=f16e159] [cursor=pointer]
+      - option "Income Tax Return (ITR)" [ref=f16e162] [cursor=pointer]
+      - option "TDS / ESI / EPF" [ref=f16e165] [cursor=pointer]
+      - option "Form 15G & 15H Filing" [ref=f16e168] [cursor=pointer]
+    - generic [ref=f16e171]:
+      - generic [ref=f16e172]: E-Commerce Training
+      - option "Basic E-Commerce Training" [ref=f16e173] [cursor=pointer]
+      - option "Advanced Marketplace Management" [ref=f16e176] [cursor=pointer]
+      - option "Amazon Seller Central Training" [ref=f16e179] [cursor=pointer]
+      - option "Flipkart Seller Hub Training" [ref=f16e182] [cursor=pointer]
+      - option "Listing & Catalogue Management" [ref=f16e185] [cursor=pointer]
+      - option "Amazon PPC & Advertising" [ref=f16e188] [cursor=pointer]
+      - option "Account Health & Reinstatement" [ref=f16e191] [cursor=pointer]
+      - option "E-Commerce Placement Training" [ref=f16e194] [cursor=pointer]
+    - generic [ref=f16e197]:
+      - generic [ref=f16e198]: IT & Software Development
+      - option "DevOps" [ref=f16e199] [cursor=pointer]
+      - option "Python & SQL" [ref=f16e202] [cursor=pointer]
+      - option "Full Stack Development" [ref=f16e205] [cursor=pointer]
+      - option "Java" [ref=f16e208] [cursor=pointer]
+      - option "Medical Coding" [ref=f16e211] [cursor=pointer]
+      - option "Power BI" [ref=f16e214] [cursor=pointer]
+      - option "AI & Machine Learning" [ref=f16e217] [cursor=pointer]
+    - generic [ref=f16e220]:
+      - generic [ref=f16e221]: Design & Mobile Development
+      - option "Adobe XD" [ref=f16e222] [cursor=pointer]
+      - option "Adobe Illustrator" [ref=f16e225] [cursor=pointer]
+      - option "iOS & Android App Development" [ref=f16e228] [cursor=pointer]
+    - generic [ref=f16e231]:
+      - generic [ref=f16e232]: Competitive Exams
+      - option "NET / SET Coaching" [ref=f16e233] [cursor=pointer]
+      - option "GATE Coaching" [ref=f16e236] [cursor=pointer]
+    - generic [ref=f16e239]:
+      - generic [ref=f16e240]: Professional Skills
+      - option "Master Diploma in Accounting" [ref=f16e241] [cursor=pointer]
+      - option "Spoken English" [ref=f16e244] [cursor=pointer]
